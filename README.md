@@ -15,7 +15,9 @@ How to run:
   1. Open the terminal in linux
   2. If you have not done so already install g++ by using the following command: sudo apt-get install g++
   3. Now download "FinalProject.cpp", "SplitTip.cpp", and "SplitTip.h" from the get hub repository by:
-      i. 
+      entering the command git clone https://github.com/SuperialCondon/Condon_CSCI2270_FinalProject.git
+  4. Now navigate to the folder you cloned that to.
+  5. Open the FinalProject.cpp file in Code Blocks
   
 Dependencies: This program has all third-party libraries included in the code itself and nothing should need to be installed for the code to run. These libraries were included:#include <string> #include <vector> #include <iostream>
 #include <math.h> 
